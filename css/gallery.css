@@ -1,0 +1,34 @@
+.image 
+{
+    width: 100%!important;
+    border-style: double;
+
+}
+
+.gallery-div
+{
+    border:1px;
+
+}
+
+.gallery-text-div {
+    border: 1px;
+    color: white;
+    font-size: 26px;
+
+
+}
+
+.gallery-col {
+    border: 1px;
+}
+
+.my-portfolio {
+    width: 300px;
+    height:200px;
+}
+
+.my-portfolio-text {
+    color: green;
+    font-size: 14px;
+}
